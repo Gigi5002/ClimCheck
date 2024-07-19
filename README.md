@@ -18,9 +18,7 @@ ClimaCheck — это веб-приложение для получения пр
     SQLite - база данных по умолчанию для простоты разработки.
     Docker - для контейнеризации приложения.
 
-!Важно!
-
-# Ваш ключ API для OpenCage Geocoding API
+# Важно! Ваш ключ API для OpenCage Geocoding API
 OPEN_CAGE_API_KEY=ваш_ключ_API
 
 OpenCage Geocoding API: Зарегистрируйтесь на OpenCage и получите свой API-ключ.
